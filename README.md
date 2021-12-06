@@ -2,7 +2,7 @@
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 2021 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+- ⭐: Gaming, listening, walking, running, Football... and talkative😅
 
 ### :zap: GitHub Stats
 

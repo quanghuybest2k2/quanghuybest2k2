@@ -13,7 +13,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://thietkewebit.blogspot.com/">
 <strong>Visit my personal website </strong>
 <br />
 <br />

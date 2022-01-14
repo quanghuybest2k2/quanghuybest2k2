@@ -28,4 +28,4 @@
 - EMAIL: quanghuybest@gmail.com
 - YOTUBE: Đoàn Quang Huy
 
-[website]: https://thietkewebit.blogspot.com/
+[website]: https://congnghetrongtoi.blogspot.com/

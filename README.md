@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&label=Lượt%20truy%20cập%20trang&color=75b60e&style=flat" alt="Đoàn Quang Huy" /><br/>
 ### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Đoàn Quang Huy][website] = Software Engineer + Youtuber 🌻
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2022 Goals: Learning many things in Python
 - ⭐: Gaming, listening, walking, running, Football... and talkative😅
 
 ### :zap: GitHub Stats

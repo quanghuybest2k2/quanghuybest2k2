@@ -1,9 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&label=Lượt%20truy%20cập%20trang&color=91C788&style=flat" alt="Đoàn Quang Huy" /><br/>
 ### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Đoàn Quang Huy][website] = Software Engineer 🌻
 - 🔭 Passion in something ... (secret😊)
-- 💪 <script type="module">
-import date from './node_modules/date-and-time/esm/date-and-time.es.min.js';
-</script> Goals: Learning many things in Laravel
+- 💪 2022 Goals: Learning many things in Laravel
 - ⭐: Gaming, listening, walking, running, Football... and talkative😅
 
 ### :zap: GitHub Stats
@@ -14,7 +12,7 @@ import date from './node_modules/date-and-time/esm/date-and-time.es.min.js';
     <img src="https://github-readme-stats.vercel.app/api?username=quanghuybest2k2&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghuybest2k2&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
+   <td width="52%"><img alt="gif" src=".github/assets/coding-freak.gif"/></td>
 </tr>
 <table>
 

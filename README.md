@@ -1,7 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&label=Lượt%20truy%20cập%20trang&color=91C788&style=flat" alt="Đoàn Quang Huy" /><br/>
-### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Đoàn Quang Huy][website] = Software Engineer + Hacker 🌻
+### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Đoàn Quang Huy][website] = Software Engineer 🌻
 - 🔭 Passion in something ... (secret😊)
-- 💪 2022 Goals: Learning many things in Laravel
+- 💪 <script type="module">
+import date from './node_modules/date-and-time/esm/date-and-time.es.min.js';
+</script> Goals: Learning many things in Laravel
 - ⭐: Gaming, listening, walking, running, Football... and talkative😅
 
 ### :zap: GitHub Stats
@@ -19,7 +21,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 
 ---
 

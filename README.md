@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&label=Lượt%20truy%20cập%20trang&color=91C788&style=flat" alt="Đoàn Quang Huy" /><br/>
+<a href="https://www.facebook.com/quanghuybest2k2/" target="_blank"/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&color=green">
 ### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Đoàn Quang Huy][website] = Software Engineer 🌻
 - 🔭 Passion in something ... (secret😊)
 - 💪 2022 Goals: Learning many things in Laravel

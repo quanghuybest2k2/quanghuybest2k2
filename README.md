@@ -32,9 +32,9 @@
 
 ---
 
-### 📫 Contact me via:
+## 📫 Contact me:
 
-- EMAIL: quanghuybest@gmail.com
-- YOUTUBE: Đoàn Quang Huy
+### Email: quanghuybest@gmail.com
+### <a href="https://www.youtube.com/@quanghuybest2k2" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 [website]: https://daihoctrongtoi.blogspot.com/

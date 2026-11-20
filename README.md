@@ -1,13 +1,7 @@
 <!-- View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quanghuybest2k2&label=%20%20Lượt%20truy%20cập%20%20&color=91C788&style=flat" alt="profile views" />
-</p>
-
-<h1 align="center">Hi, I'm Đoàn Quang Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"></h1>
-
-<p align="center">
-  <a href="https://www.facebook.com/huyworks/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@huyworksdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCVPk-G2dk3hHcVIbO8T1Tkw?style=social" alt="YouTube" /></a>
+  <a href="https://vn.linkedin.com/in/quanghuybest2k2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@huyworksdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-@huyworksdev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@huyworksdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://daihoctrongtoi.blogspot.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=91C788&up_message=online&url=https%3A%2F%2Fdaihoctrongtoi.blogspot.com%2F" alt="Blog" /></a>
 </p>
